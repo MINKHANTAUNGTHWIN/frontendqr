@@ -1,0 +1,2 @@
+-- AlterTable
+ALTER TABLE "visits" ALTER COLUMN "helperID" SET DATA TYPE TEXT;
